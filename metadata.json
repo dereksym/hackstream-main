@@ -1,0 +1,5 @@
+{
+  "name": "Hackstream",
+  "description": "A platform that combines the discoverability of Netflix with the live engagement of Twitch, tailored for hackathons. Participants stream their progress, visitors watch live builds, and judges use AI-assisted tools to score submissions.",
+  "requestFramePermissions": []
+}
